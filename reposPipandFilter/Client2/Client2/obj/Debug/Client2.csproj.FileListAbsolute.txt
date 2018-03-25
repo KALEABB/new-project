@@ -1,0 +1,2 @@
+C:\Users\kal\source\repos\Client2\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\kal\source\repos\Client2\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
